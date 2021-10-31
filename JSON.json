@@ -1,0 +1,38 @@
+{
+	"movies": [{
+			"title": "terminator",
+			"director": "James Cameron",
+			"genre": "action",
+                        "duration in minutes": 107,
+                        "year": 1984
+		},
+		{
+			"title": "mummy",
+			"director": "Stephen Sommers",
+			"genre": "adventure",
+                        "duration in minutes": 125,
+                        "year": 1999
+		},
+		{
+			"title": "scarface",
+			"director": "Brian De Palma",
+			"genre": "criminal",
+                        "duration in minutes": 170,
+                        "year": 1983
+		},
+                {
+			"title": "titanic",
+			"director": "James Cameron",
+			"genre": "disaster",
+                        "duration in minutes": 220,
+                        "year": 1997
+		},
+		{
+			"title": "godfather",
+			"director": "Francis Ford Coppola",
+			"genre": "drama",
+                        "duration in minutes": 177,
+                        "year": 1972
+		}
+	]
+}

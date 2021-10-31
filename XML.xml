@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movies>
+	<movie>
+		<title>terminator</title>
+		<director>James Cameron</director>
+		<genre>action</genre>
+                <duration>107 min</duration>
+		<year>1984</year>
+	</movie>
+	<movie>
+		<title>mummy</title>
+		<director>Stephen Sommers</director>
+		<genre>adventure</genre>
+                <duration>125 min</duration>
+		<year>1999</year>
+	</movie>
+	<movie>
+		<title>scarface</title>
+		<director>Brian De Palma</director>
+		<genre>criminal</genre>
+                <duration>170min</duration>
+		<year>1983</year>
+	</movie>
+	<movie>
+		<title>titanic</title>
+		<director>James Cameron</director>
+		<genre>disaster</genre>
+                <duration>220 min</duration>
+		<year>1997</year>
+	</movie>
+<movie>
+		<title>godfather</title>
+		<director>Francis Ford Coppola</director>
+		<genre>drama</genre>
+                <duration>177 min</duration>
+		<year>1972</year>
+	</movie>
+</movies>
